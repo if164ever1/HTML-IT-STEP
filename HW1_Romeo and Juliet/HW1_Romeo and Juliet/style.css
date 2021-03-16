@@ -1,0 +1,19 @@
+h2{
+  text-align: center;
+  color: #483D8B;
+  border-top: 10px;
+}
+
+p{
+  color: #696969;
+  border-top: 30px;
+}
+
+.text{
+  margin-right: 1250px;
+  margin-bottom: 35px;
+}
+
+body{
+  background-color: #FFFFF0;
+}
